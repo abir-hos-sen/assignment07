@@ -22,7 +22,7 @@ function Navbar() {
             to="/"
             className={`nav-link ${isActive('/') ? 'active' : ''}`}
           >
-            <img src="/assets/vector.png" alt="Home" className="nav-icon" />
+            <img src="/assets/Vector.png" alt="Home" className="nav-icon" />
             <span>Home</span>
           </Link>
 
@@ -31,7 +31,7 @@ function Navbar() {
             to="/timeline"
             className={`nav-link ${isActive('/timeline') ? 'active' : ''}`}
           >
-            <img src="/assets/clock.png" alt="Timeline" className="nav-icon" />
+            <img src="/assets/Clock.png" alt="Timeline" className="nav-icon" />
             <span>Timeline</span>
           </Link>
 
@@ -40,7 +40,7 @@ function Navbar() {
             to="/stats"
             className={`nav-link ${isActive('/stats') ? 'active' : ''}`}
           >
-            <img src="/assets/chartLine.png" alt="Stats" className="nav-icon" />
+            <img src="/assets/ChartLine.png" alt="Stats" className="nav-icon" />
             <span>Stats</span>
           </Link>
         </div>

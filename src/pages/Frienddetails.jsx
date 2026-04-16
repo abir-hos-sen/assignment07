@@ -81,13 +81,13 @@ function FriendDetails() {
             <div className="action-buttons">
               {/* SNOOZE BUTTON - PNG ICON */}
               <button className="action-btn snooze-btn" title="Snooze 2 Weeks">
-                <img src="/assets/Snooze.png" alt="Snooze" className="action-icon" />
+                <img src="/assets/snooze.png" alt="Snooze" className="action-icon" />
                 <span>Snooze 2 Weeks</span>
               </button>
 
               {/* ARCHIVE BUTTON - PNG ICON */}
               <button className="action-btn archive-btn" title="Archive">
-                <img src="/assets/Archive.png" alt="Archive" className="action-icon" />
+                <img src="/assets/archive.png" alt="Archive" className="action-icon" />
                 <span>Archive</span>
               </button>
 
