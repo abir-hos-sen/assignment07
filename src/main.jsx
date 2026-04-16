@@ -9,5 +9,5 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 );
 
-{/* <p>Hello, React!</p> */}
+{/* <h5>Friend Details</h5> */}
 
