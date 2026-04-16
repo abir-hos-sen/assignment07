@@ -9,5 +9,5 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 );
 
-{/* <h4>Welcome to the Friend Details Page</h4> */}
+
 
