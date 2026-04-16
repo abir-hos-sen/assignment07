@@ -93,7 +93,7 @@ function FriendDetails() {
 
               {/* DELETE BUTTON - PNG ICON */}
               <button className="action-btn delete-btn" title="Delete">
-                <img src="/assets/Delete.png" alt="Delete" className="action-icon" />
+                <img src="/assets/Trash.png" alt="Delete" className="action-icon" />
                 <span>Delete</span>
               </button>
             </div>
