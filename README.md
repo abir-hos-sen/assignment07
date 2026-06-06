@@ -21,6 +21,8 @@ A modern web application to help you maintain and nurture meaningful friendships
 - **React Hot Toast** – Toast notifications
 - **Vite** – Build tool and development server
 
+  live liink : https://assignment07-sooty.vercel.app
+
 ## 📦 Installation & Setup
 
 ```bash
